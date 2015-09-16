@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Cours de codage </TITLE>
+  <META NAME="Author" CONTENT="Raveen">
+  <META NAME="Description" CONTENT="Codage de la page d'accueil pour un site, pas touche !">
+ </HEAD>
+ <BODY>
+   
+           
+        <SCRIPT type=text/javascript>
+
+        //<!--
+
+                function change_onglet(name)
+
+                {
+
+document.getElementById('onglet_'+anc_onglet)
+
+.className = 'onglet_0 onglet';
+
+document.getElementById('onglet_'+name).
+
+className = 'onglet_1 onglet';
+
+document.getElementById('contenu_onglet_'+anc_onglet)
+
+.style.display = 'none';
+
+document.getElementById('contenu_onglet_'+name).
+
+style.display = 'block';
+
+                        anc_onglet = name;
+
+                }
+
+
+        //-->
+
+        
+
+               </SCRIPT>
+   
+<STYLE type=text/css>
+body {
+  background-image:url('http://images.4ever.eu/data/download/abstrait/fond-noir-198944.jpg');
+  }
+  
+  .banniere {
+  background-color: black;
+  width:80%;
+  height: 75px;
+  text-align:center;
+  color:white;
+  font-size:30px;
+  }
+  
+  .slash {
+  font-size:50px;
+  color:purple;
+  }
+
+  .caractere {
+  color:purple;
+  float:left
+  margin: 1px; 
+  padding:1px;
+  }
+
+
+  #menu{
+     float: center;
+  list-style-type:none; 
+  margin: 0; 
+  padding:0; 
+  border : solid 1px purple;  
+  border-bottom: none; 
+  background-color: black;
+  width:175px;
+  letter-spacing:2px;
+  border-left:purple 8px solid;
+  -moz-transition-duration:0.5s;
+-moz-transition-timing-function:linear;
+-webkit-transition-duration:0.5s;
+-webkit-transition-timing-function:linear;
+transition-duration:0.5s;
+transition-timing-function:linear;
+  }
+  
+  #menu a{
+    color:grey;
+   text-decoration:none;  
+display:block;   
+padding-left:1.5em;  
+}
+  
+  #menu a:hover{
+background-color: purple;
+  letter-spacing:3px;
+  -moz-transition-duration:1s;
+-moz-transition-timing-function:linear;
+-webkit-transition-duration:1s;
+-webkit-transition-timing-function:linear;
+transition-duration:1s;
+transition-timing-function:linear;
+  }
+  
+  #menu li{
+margin: 0; 
+padding: 0; 
+border-bottom: 1px solid purple;  
+}
+  
+  .blockprincipal{
+  background-color: rgba(250,250,250,0.2);
+    border:purple 1px solid;
+  float:center;
+  width:800px;
+  height:auto;
+  color:black;
+  }
+  
+.blockprincipal p{
+text-align:justify;
+letter-spacing: 2px;
+color:#fff
+}
+  
+.littletitle {
+border-top: purple 1px solid;
+border-bottom: purple 1px solid;
+color:purple;
+letter-spacing:-2px;
+font-size:20px;
+text-align:center;
+}
+
+.cadre {
+background-color: #fff;
+width:215px;
+height:250px;
+text-align:center;
+}
+
+  .shadow {
+  text-shadow: 0px 0px 8px #ffffff;
+  -moz-box-shadow: 1px 1px 5px #ffffff;
+  -webkit-box-shadow: 1px 1px 5px #ffffff;
+  }
+
+   .logorotate {
+-moz-transition-duration:1s;
+-moz-transition-timing-function:linear;
+-webkit-transition-duration:1s;
+-webkit-transition-timing-function:linear;
+transition-duration:1s;
+transition-timing-function:linear;
+}
+
+.logorotate:hover {
+-moz-transform:rotate(360deg);
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg);
+}
+  
+  .onglet {
+	TEXT-ALIGN: center; DISPLAY: inline-block; FONT-FAMILY: courrier new; COLOR: grey; -webkit-transition: 700ms; -moz-transition: 700ms; transition: 700ms
+}
+.onglet_0 {
+	TEXT-ALIGN: center; DISPLAY: inline-block; FONT-FAMILY: courrier new; COLOR: grey; -webkit-transition: 700ms; -moz-transition: 700ms; transition: 700ms
+}
+.onglet:hover {
+	COLOR: black
+}
+.contenu_onglet {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: none; COLOR: grey; FONT-SIZE: 14px; OVERFLOW: auto; PADDING-TOP: 10px; text-shadow: 1px 1px 0px black
+}
+
+A {
+	COLOR: black; FONT-WEIGHT: bold; TEXT-DECORATION: none; text-shadow: none
+}
+  
+  </STYLE>
+<center>
+  <div class="banniere"><span class="motun">LANGUAGES</span> INFORMATIQUES <span class="slash"><strong>///</strong></span> HTML CSS 
+    <br/><div style="font-size:20px; margin-left:450px;margin-top:-55px;">Cours codage</div></div>
+  <br/>
+   <table><tr><td><ul id="menu">
+              <li>
+                <a href="#">Lien 1</a>
+              </li>
+              <li>
+                <a href="#">Lien 2</a>
+              </li>
+              <li>
+                <a href="#">Lien 3</a>
+              </li>
+              <li>
+                <a href="#">Lien 4</a>
+              </li>
+              <li>
+                <a href="#">Lien 5</a>
+              </li>
+              <li>
+                <a href="#">Lien 6</a>
+              </li>
+              <li>
+                <a href="#">Lien 3</a>
+              </li>
+              <li>
+                <a href="#">Lien 7</a>
+              </li>
+              <li>
+                <a href="#">Lien 8</a>
+              </li>
+     </ul></td>
+     <td><div class="blockprincipal">
+
+
+
+<CENTER><DIV id=contenu_onglet_1er class=contenu_onglet>
+  <IMG SRC="http://i59.servimg.com/u/f59/16/85/48/85/image_13.jpg"/></DIV>
+<CENTER><DIV id=contenu_onglet_2eme class=contenu_onglet>
+  <IMG SRC="http://i59.servimg.com/u/f59/16/85/48/85/image_14.jpg"/></DIV>
+<CENTER><DIV id=contenu_onglet_3eme class=contenu_onglet>
+   <IMG SRC="http://i59.servimg.com/u/f59/16/85/48/85/image_15.jpg"/>
+  </DIV><DIV class=onglets>
+<CENTER><SPAN id=onglet_1er class="onglet_0 onglet" 
+onmouseover="javascript:change_onglet('1er');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px; float:right;"/></SPAN> <SPAN 
+id=onglet_2eme class="onglet_0 onglet" 
+onmouseover="javascript:change_onglet('2eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN> <SPAN 
+id=onglet_3eme class="onglet_0 onglet" 
+onmouseover="javascript:change_onglet('3eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN>  
+</CENTER></DIV>
+             
+        <SCRIPT type=text/javascript>
+   //<!--
+                var anc_onglet = '1er';
+
+                change_onglet(anc_onglet);
+
+          //--></SCRIPT>
+<div class="caractère">___________________________________ &sect; ___________________________________<br/><br/>
+  <table><tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
+    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
+    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
+    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
+    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
+      <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr></table>
+    <br/>
+<br/><table><tr><td><div class="littletitle">- TITLE ONE -</div></td><td><div class="littletitle">- TITLE TWO -</div></td><td><div class="littletitle">- TITLE THREE -</div></td></tr>
+<tr><td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" title="Sub title" style="width:200px;height:200px;float:center;"/><br/>Description</div></td>
+<td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" title="Sub title" style="width:200px;height:200px; float:center;"/><br/>Description</div></td>
+<td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" title="Sub title" style="width:200px;height:200px; float:center;"/><br/>Description</div></td></tr></table><br/><br/></div>
+
+     
+    </BODY>
+</HTML>
