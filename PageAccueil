@@ -1,7 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
  <HEAD>
-  <TITLE> Cours de codage </TITLE>
+<link rel="stylesheet" href="styleCSS.css">
+  <TITLE> ISN </TITLE>
   <META NAME="Author" CONTENT="Raveen">
   <META NAME="Description" CONTENT="Codage de la page d'accueil pour un site, pas touche !">
  </HEAD>
@@ -43,137 +44,9 @@ style.display = 'block';
 
                </SCRIPT>
    
-<STYLE type=text/css>
-body {
-  background-image:url('http://images.4ever.eu/data/download/abstrait/fond-noir-198944.jpg');
-  }
-  
-  .banniere {
-  background-color: black;
-  width:100%;
-  height: 75px;
-  text-align:center;
-  color:white;
-  font-size:30px;
-  }
-  
-  .slash {
-  font-size:50px;
-  color:purple;
-  }
-
-  .caractere {
-  color:purple;
-  float:left
-  margin: 1px; 
-  padding:1px;
-  }
-
-
-  .boutonmenu {
-float: center;
-margin: 0; 
-padding:0; 
-border : solid 1px purple;  
-background-color: black;
-width:120px;
-text-align:center;
-border-left:purple 8px solid;
--moz-transition-duration:0.7s;
--moz-transition-timing-function:linear;
--webkit-transition-duration:0.7s;
--webkit-transition-timing-function:linear;
-transition-duration:0.7s;
-transition-timing-function:linear;
-   text-decoration:none;  
-box-shadow: 0px 0px 8px #000;
-  -moz-box-shadow: 0px 0px 8px #000;
-  -webkit-box-shadow: 0px 0px 8px #000;
-}
-
-   A {
-COLOR: grey; 
-FONT-WEIGHT: bold; 
-TEXT-DECORATION: none; 
-}
-
-  
-.boutonmenu:hover{
-background-color: purple;
-box-shadow: 0px 0px 8px #000;
-  -moz-box-shadow: 0px 0px 8px #000;
-  -webkit-box-shadow: 0px 0px 8px #000;
-text-align:center;
-  -moz-transition-duration:0.7s;
--moz-transition-timing-function:linear;
--webkit-transition-duration:0.7s;
--webkit-transition-timing-function:linear;
-transition-duration:0.7s;
-transition-timing-function:linear;
-border:1px black solid;
-border-left:purple 8px solid;
-  }
-  
-  .blockprincipal{
-  background-color: rgba(250,250,250,0.2);
-    border:purple 1px solid;
-  float:center;
-  width:800px;
-  height:auto;
-  color:black;
-  }
-  
-.blockprincipal p{
-text-align:justify;
-letter-spacing: 2px;
-color:#fff
-}
-  
-.littletitle {
-border-top: purple 1px solid;
-border-bottom: purple 1px solid;
-color:purple;
-letter-spacing:-2px;
-font-size:20px;
-text-align:center;
-}
-
-.cadre {
-background-color: #fff;
-width:215px;
-height:250px;
-text-align:center;
-}
-
-
-  
-  .onglet {
-	TEXT-ALIGN: center; DISPLAY: inline-block; FONT-FAMILY: courrier new; COLOR: grey; 
-
--webkit-transition: 700ms; -moz-transition: 700ms; transition: 700ms
-}
-.onglet_0 {
-	TEXT-ALIGN: center; DISPLAY: inline-block; FONT-FAMILY: courrier new; COLOR: grey; 
-
--webkit-transition: 700ms; -moz-transition: 700ms; transition: 700ms
-}
-.onglet:hover {
-	COLOR: black
-}
-.contenu_onglet {
-	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: none; COLOR: grey; FONT-SIZE: 
-
-14px; OVERFLOW: auto; PADDING-TOP: 10px; text-shadow: 1px 1px 0px black
-}
-  
-  </STYLE>
 <center>
-  <div class="banniere"><span class="motun">LANGUAGES</span> INFORMATIQUES <span 
-
-class="slash"><strong>///</strong></span> HTML CSS 
-    <br/><div style="font-size:20px; margin-left:450px;margin-top:-55px;">Cours 
-
-codage</div><br/><br/></div>
+  <div class="banniere"><span class="motun">LANGUAGES</span> INFORMATIQUES <span class="slash"><strong>///</strong></span> HTML CSS 
+    <br/><div style="font-size:20px; margin-left:450px;margin-top:-55px;">Cours codage</div><br/><br/></div>
 <table><tr><td><div class="boutonmenu"><a href="HTML%20accueil.html">Accueil</a></div><td>
 <td><div class="boutonmenu"><a href="HTML%20Historique.html"> Bref historique</a></div><td>
 <td><div class="boutonmenu"><a href="HTML%20Bases.html"> Les bases</a></div><td>
@@ -196,23 +69,11 @@ codage</div><br/><br/></div>
    <a href="#"><IMG SRC="http://i59.servimg.com/u/f59/16/85/48/85/image_15.jpg"/></a>
   </DIV><DIV class=onglets>
 <CENTER><SPAN id=onglet_1er class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('1er');"><IMG 
-
-SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px; 
-
-float:right;"/></SPAN> <SPAN 
+onmouseover="javascript:change_onglet('1er');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px; float:right;"/></SPAN> <SPAN 
 id=onglet_2eme class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('2eme');"><IMG 
-
-SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" 
-
-style="width=10px;height:10px;float:right;"/></SPAN> <SPAN 
+onmouseover="javascript:change_onglet('2eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN> <SPAN 
 id=onglet_3eme class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('3eme');"><IMG 
-
-SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" 
-
-style="width=10px;height:10px;float:right;"/></SPAN>  
+onmouseover="javascript:change_onglet('3eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN>  
 </CENTER></DIV>
              
         <SCRIPT type=text/javascript>
@@ -222,42 +83,18 @@ style="width=10px;height:10px;float:right;"/></SPAN>
                 change_onglet(anc_onglet);
 
           //--></SCRIPT>
-<div class="caractère"><center>________________________________________ &sect; 
-
-________________________________________</center><br/><br/>
-  <table><tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
-    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
-    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla bla.</td>
-    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
-    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla bla.</td>
-      <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr></table>
+<div class="caractère"><center>________________________________________ &sect; ________________________________________</center><br/><br/>
+  <table><tr><td>NEW <span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. <a href="#">Lire plus...</a></td>
+    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
+    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
+    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
+    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
+      <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr></table>
     <br/>
-<br/><table><tr><td><div class="littletitle">- TITLE ONE -</div></td><td><div class="littletitle">- TITLE 
-
-TWO -</div></td><td><div class="littletitle">- TITLE THREE -</div></td></tr>
-<tr><td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" 
-
-title="Sub title" style="width:200px;height:200px;float:center;"/><br/>Description</div></td>
-<td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" title="Sub 
-
-title" style="width:200px;height:200px; float:center;"/><br/>Description</div></td>
-<td><div class="cadre"><br/><IMG SRC="http://peoplette.net/wp-content/uploads/2011/02/chat.jpg" title="Sub 
-
-title" style="width:200px;height:200px; 
-
-float:center;"/><br/>Description</div></td></tr></table><br/><br/></div>
+<br/><table><tr><td><div class="littletitle">- TITLE ONE -</div></td><td><div class="littletitle">- TITLE TWO -</div></td><td><div class="littletitle">- TITLE THREE -</div></td></tr>
+<tr><td><div class="cadre"><br/><a href="#"><IMG SRC="http://www.ml.refer.org/IMG/arton45.jpg" title="Sub title" style="width:200px;height:200px;float:center;"/></a><br/>Description</div></td>
+<td><div class="cadre"><br/><a href="#"><IMG SRC="http://vignette2.wikia.nocookie.net/central/images/c/c5/JavaScript_Logo.png/revision/latest?cb=20140307231238" title="Sub title" style="width:200px;height:200px; float:center;"/></a><br/>Description</div></td>
+<td><div class="cadre"><br/><a href="#"><IMG SRC="http://www.irisclasson.com/wp-content/uploads/2012/12/The-family-ofC-languages-explained-W600.jpg" title="Sub title" style="width:200px;height:200px; float:center;"/></a><br/>Description</div></td></tr></table><br/><br/></div>
 
      
     </BODY>
