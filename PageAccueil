@@ -69,33 +69,8 @@ style.display = 'block';
    <a href="#"><IMG SRC="http://i59.servimg.com/u/f59/16/85/48/85/image_15.jpg"/></a>
   </DIV><DIV class=onglets>
 <CENTER><SPAN id=onglet_1er class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('1er');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px; float:right;"/></SPAN> <SPAN 
+onmouseover="javascript:change_onglet('1er');"><IMG SRC="http://mr-communication-graphique.com/wp-content/uploads/2014/08/bulle-bleue.png" style="width=10px;height:10px; float:right;"/></SPAN> <SPAN 
 id=onglet_2eme class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('2eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN> <SPAN 
+onmouseover="javascript:change_onglet('2eme');"><IMG SRC="http://mr-communication-graphique.com/wp-content/uploads/2014/08/bulle-bleue.png" style="width=10px;height:10px;float:right;"/></SPAN> <SPAN 
 id=onglet_3eme class="onglet_0 onglet" 
-onmouseover="javascript:change_onglet('3eme');"><IMG SRC="http://www.artofpop.com/artayana/imgs/purple_crystal_ball.png" style="width=10px;height:10px;float:right;"/></SPAN>  
-</CENTER></DIV>
-             
-        <SCRIPT type=text/javascript>
-   //<!--
-                var anc_onglet = '1er';
-
-                change_onglet(anc_onglet);
-
-          //--></SCRIPT>
-<div class="caractère"><center>________________________________________ &sect; ________________________________________</center><br/><br/>
-  <table><tr><td>NEW <span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. <a href="#">Lire plus...</a></td>
-    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
-    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
-    <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr>
-    <tr><td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td>
-      <td><span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.</td></tr></table>
-    <br/>
-<br/><table><tr><td><div class="littletitle">- TITLE ONE -</div></td><td><div class="littletitle">- TITLE TWO -</div></td><td><div class="littletitle">- TITLE THREE -</div></td></tr>
-<tr><td><div class="cadre"><br/><a href="#"><IMG SRC="http://www.ml.refer.org/IMG/arton45.jpg" title="Sub title" style="width:200px;height:200px;float:center;"/></a><br/>Description</div></td>
-<td><div class="cadre"><br/><a href="#"><IMG SRC="http://vignette2.wikia.nocookie.net/central/images/c/c5/JavaScript_Logo.png/revision/latest?cb=20140307231238" title="Sub title" style="width:200px;height:200px; float:center;"/></a><br/>Description</div></td>
-<td><div class="cadre"><br/><a href="#"><IMG SRC="http://www.irisclasson.com/wp-content/uploads/2012/12/The-family-ofC-languages-explained-W600.jpg" title="Sub title" style="width:200px;height:200px; float:center;"/></a><br/>Description</div></td></tr></table><br/><br/></div>
-
-     
-    </BODY>
-</HTML>
+onmouseover="javascript:change_onglet('3eme');"><IMG SRC="http://mr-communication-graphique.com/wp-content/uploads
