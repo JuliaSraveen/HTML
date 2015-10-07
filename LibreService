@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD><link rel="stylesheet" href="styleCSS.css">
+  <TITLE> Cours de codage </TITLE>
+  <META NAME="Author" CONTENT="Raveen">
+  <META NAME="Description" CONTENT="Codage de la page d'accueil pour un site, pas touche !">
+ </HEAD>
+ <BODY>
+<center>
+  <div class="banniere"><span class="motun">LANGUAGES</span> INFORMATIQUES <span class="slash"><strong>///</strong></span> HTML CSS 
+    <br/><div style="font-size:20px; margin-left:450px;margin-top:-55px;">Cours codage</div><br/><br/></div>
+<table><tr><td><div class="boutonmenu"><a href="HTML%20accueil.html">Accueil</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Historique.html"> Bref historique</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Bases.html"> Les bases</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Languages.html"> Les languages</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Fond.html"> Le fond: html</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Forme.html"> La forme: css</a></div><td>
+<td><div class="boutonmenu"><a href="HTML%20Ajouts.html"> Les ajouts</a></div><td>
+<td><div class="boutonmenu"> <a href="HTML%20C.html"> Les complexes</a></div><td>
+<td><div class="boutonmenu">  <a href="HTML%20Help.html"> Besoin d'aide ?</a></div><td></tr></table>
+  <br/>
+
+<div class="blockprincipal">
+
+<div class="caractère"><center>________________________________________ &sect; ________________________________________</center><br/><br/>
+  <span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.<br/><br/>
+
+  <span class="caractere" style="float:right; padding:0px;margin:0px;">&#9668;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+    <br/>
+<br/>
+<span class="caractere">&#9658;</span> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla. Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.<br/>
+
+     
+    </BODY>
+</HTML>
